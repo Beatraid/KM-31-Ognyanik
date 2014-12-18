@@ -9,4 +9,4 @@ KM-31-Ognyanik
 
 -- красава
 
-Ваня лох
+Hello! I am programmer! Are you?
