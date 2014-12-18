@@ -11,4 +11,4 @@ KM-31-Ognyanik
 
 Hello! I am programmer! Are you?
 
-ваня лох
+Yes...если бы :)
